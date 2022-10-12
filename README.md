@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Kabira Speaking]kabira_speaking.png
+
+Yes, thats where my username came from
+
 <!--
 **kuberaspeaking/kuberaspeaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
