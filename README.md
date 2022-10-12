@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kabira Speaking]kabira_speaking.png
+![Kabira Speaking](kabira_speaking.png)
 
 Yes, thats where my username came from
 
