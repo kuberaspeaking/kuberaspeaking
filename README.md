@@ -7,7 +7,7 @@ Yes, thats where my username came from. Any who..
 - 👩🏾‍💻 My name is Shruti Kuber (she/her)🇮🇳🇸🇪🇩🇪
 - 👩🏾‍🎓I am an engineer who talks to customers.
 - I have worked as a Developer Advocate, Community Manager and a Solutions Engineer.
-- 👩🏽‍🎤 Currently building [Pitchbazaar](https://www.pitchbazaar.com) the database of Indian Startups.
+- 👩🏽‍🎤 Currently building [Pitchbazaar](https://www.pitchbazaar.com) a platform to connect Indian and European Startup Ecosystems.
 - ⎈ My name has Kuber in it so I thought I might as well learn about kubernetes. `(`Yes I love Puns!`)`
 - 🗣 As a developer advocate I have [spoken at tech events](https://www.youtube.com/watch?v=J_dlIJYy-5Y&t=22320s).
 - 🔧 Through my role, I learned more about open source in the data engineering world. 
